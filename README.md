@@ -1,6 +1,6 @@
 ### Hi, I am Jeremy and this is my Github!
 
-My name is Jeremy Wu. I am currently a Junior at the University of Illinois-Urbana Champaign studying Computer Engineering. Take a look at the projects that I have done or am currently doing.
+My name is Jeremy Wu. I am currently a graduate student at the University of Illinois-Urbana Champaign studying Computer Engineering. Take a look at the projects that I have done or am currently doing.
 
 <!--
 **JeremyWu2002/JeremyWu2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
